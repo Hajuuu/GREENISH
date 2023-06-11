@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemList">
+        <item>선택안함</item>
+        <item>발코니</item>
+        <item>거실</item>
+        <item>침실</item>
+    </string-array>
+</resources>
